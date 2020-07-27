@@ -1,0 +1,12 @@
+Fri 24 Jul 2020 14:07:01 INFO browser_engine.py 22 7524 You had open Chrome browser
+Fri 24 Jul 2020 14:07:01 INFO browser_engine.py 22 7524 You had open Chrome browser
+Fri 24 Jul 2020 14:07:01 INFO browser_engine.py 24 7524 You will open the URL https://saas82.ukelink.net/ !!
+Fri 24 Jul 2020 14:07:01 INFO browser_engine.py 24 7524 You will open the URL https://saas82.ukelink.net/ !!
+Fri 24 Jul 2020 14:07:03 INFO browser_engine.py 29 7524 Starting Chrome browser.
+Fri 24 Jul 2020 14:07:03 INFO browser_engine.py 29 7524 Starting Chrome browser.
+Fri 24 Jul 2020 14:07:04 INFO browser_engine.py 40 7524 Open URL: https://saas82.ukelink.net/
+Fri 24 Jul 2020 14:07:04 INFO browser_engine.py 40 7524 Open URL: https://saas82.ukelink.net/
+Fri 24 Jul 2020 14:07:05 INFO browser_engine.py 42 7524 Maxmize current window
+Fri 24 Jul 2020 14:07:05 INFO browser_engine.py 42 7524 Maxmize current window
+Fri 24 Jul 2020 14:07:15 INFO base_page.py 155 7524 FAIL Unable to click element: <xpath >> /html/body/div[1]/div/div[3]/div/form/div/div[2]/div/div[1]/div[2]/p/select>, Spend 10.175943613052368 seconds
+Fri 24 Jul 2020 14:07:15 INFO base_page.py 155 7524 FAIL Unable to click element: <xpath >> /html/body/div[1]/div/div[3]/div/form/div/div[2]/div/div[1]/div[2]/p/select>, Spend 10.175943613052368 seconds

@@ -1,0 +1,1128 @@
+Wed 22 Jul 2020 10:33:57 INFO browser_engine.py 20 10700 You had open Chrome browser
+Wed 22 Jul 2020 10:33:57 INFO browser_engine.py 20 10700 You had open Chrome browser
+Wed 22 Jul 2020 10:33:57 INFO browser_engine.py 22 10700 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:33:57 INFO browser_engine.py 22 10700 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:35:39 INFO browser_engine.py 22 10268 You had open Chrome browser
+Wed 22 Jul 2020 10:35:39 INFO browser_engine.py 22 10268 You had open Chrome browser
+Wed 22 Jul 2020 10:35:39 INFO browser_engine.py 24 10268 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:35:39 INFO browser_engine.py 24 10268 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:35:41 INFO browser_engine.py 29 10268 Starting Chrome browser.
+Wed 22 Jul 2020 10:35:41 INFO browser_engine.py 29 10268 Starting Chrome browser.
+Wed 22 Jul 2020 10:35:41 INFO browser_engine.py 40 10268 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:35:41 INFO browser_engine.py 40 10268 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:35:42 INFO browser_engine.py 42 10268 Maxmize current window
+Wed 22 Jul 2020 10:35:42 INFO browser_engine.py 42 10268 Maxmize current window
+Wed 22 Jul 2020 10:35:42 INFO browser_engine.py 22 10268 You had open Chrome browser
+Wed 22 Jul 2020 10:35:42 INFO browser_engine.py 22 10268 You had open Chrome browser
+Wed 22 Jul 2020 10:35:42 INFO browser_engine.py 24 10268 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:35:42 INFO browser_engine.py 24 10268 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:35:45 INFO browser_engine.py 29 10268 Starting Chrome browser.
+Wed 22 Jul 2020 10:35:45 INFO browser_engine.py 29 10268 Starting Chrome browser.
+Wed 22 Jul 2020 10:35:45 INFO browser_engine.py 40 10268 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:35:45 INFO browser_engine.py 40 10268 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:35:46 INFO browser_engine.py 42 10268 Maxmize current window
+Wed 22 Jul 2020 10:35:46 INFO browser_engine.py 42 10268 Maxmize current window
+Wed 22 Jul 2020 10:38:05 INFO browser_engine.py 22 7420 You had open Chrome browser
+Wed 22 Jul 2020 10:38:05 INFO browser_engine.py 22 7420 You had open Chrome browser
+Wed 22 Jul 2020 10:38:05 INFO browser_engine.py 24 7420 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:38:05 INFO browser_engine.py 24 7420 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:38:07 INFO browser_engine.py 29 7420 Starting Chrome browser.
+Wed 22 Jul 2020 10:38:07 INFO browser_engine.py 29 7420 Starting Chrome browser.
+Wed 22 Jul 2020 10:38:08 INFO browser_engine.py 40 7420 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:38:08 INFO browser_engine.py 40 7420 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:38:09 INFO browser_engine.py 42 7420 Maxmize current window
+Wed 22 Jul 2020 10:38:09 INFO browser_engine.py 42 7420 Maxmize current window
+Wed 22 Jul 2020 10:47:58 INFO browser_engine.py 22 3512 You had open Chrome browser
+Wed 22 Jul 2020 10:47:58 INFO browser_engine.py 22 3512 You had open Chrome browser
+Wed 22 Jul 2020 10:47:58 INFO browser_engine.py 24 3512 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:47:58 INFO browser_engine.py 24 3512 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:48:01 INFO browser_engine.py 29 3512 Starting Chrome browser.
+Wed 22 Jul 2020 10:48:01 INFO browser_engine.py 29 3512 Starting Chrome browser.
+Wed 22 Jul 2020 10:48:01 INFO browser_engine.py 40 3512 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:48:01 INFO browser_engine.py 40 3512 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:48:02 INFO browser_engine.py 42 3512 Maxmize current window
+Wed 22 Jul 2020 10:48:02 INFO browser_engine.py 42 3512 Maxmize current window
+Wed 22 Jul 2020 10:48:02 INFO base_page.py 144 3512 FAIL Unable to type element: <css >> .user_name>input> content: a, Spend 0.0 seconds
+Wed 22 Jul 2020 10:48:02 INFO base_page.py 144 3512 FAIL Unable to type element: <css >> .user_name>input> content: a, Spend 0.0 seconds
+Wed 22 Jul 2020 10:49:26 INFO browser_engine.py 22 13500 You had open Chrome browser
+Wed 22 Jul 2020 10:49:26 INFO browser_engine.py 22 13500 You had open Chrome browser
+Wed 22 Jul 2020 10:49:26 INFO browser_engine.py 24 13500 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:49:26 INFO browser_engine.py 24 13500 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:49:29 INFO browser_engine.py 29 13500 Starting Chrome browser.
+Wed 22 Jul 2020 10:49:29 INFO browser_engine.py 29 13500 Starting Chrome browser.
+Wed 22 Jul 2020 10:49:29 INFO browser_engine.py 40 13500 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:49:29 INFO browser_engine.py 40 13500 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:49:30 INFO browser_engine.py 42 13500 Maxmize current window
+Wed 22 Jul 2020 10:49:30 INFO browser_engine.py 42 13500 Maxmize current window
+Wed 22 Jul 2020 10:49:30 INFO base_page.py 144 13500 FAIL Unable to type element: <css >> .user_name>input> content: a, Spend 0.0 seconds
+Wed 22 Jul 2020 10:49:30 INFO base_page.py 144 13500 FAIL Unable to type element: <css >> .user_name>input> content: a, Spend 0.0 seconds
+Wed 22 Jul 2020 10:57:32 INFO browser_engine.py 22 6712 You had open Chrome browser
+Wed 22 Jul 2020 10:57:32 INFO browser_engine.py 22 6712 You had open Chrome browser
+Wed 22 Jul 2020 10:57:32 INFO browser_engine.py 24 6712 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:57:32 INFO browser_engine.py 24 6712 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 10:57:34 INFO browser_engine.py 29 6712 Starting Chrome browser.
+Wed 22 Jul 2020 10:57:34 INFO browser_engine.py 29 6712 Starting Chrome browser.
+Wed 22 Jul 2020 10:57:35 INFO browser_engine.py 40 6712 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:57:35 INFO browser_engine.py 40 6712 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 10:57:36 INFO browser_engine.py 42 6712 Maxmize current window
+Wed 22 Jul 2020 10:57:36 INFO browser_engine.py 42 6712 Maxmize current window
+Wed 22 Jul 2020 14:57:04 INFO base_page.py 122 2068 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: leiwei, Spend 0.10970616340637207 seconds
+Wed 22 Jul 2020 14:57:04 INFO base_page.py 122 2068 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: leiwei, Spend 0.10970616340637207 seconds
+Wed 22 Jul 2020 15:26:42 INFO browser_engine.py 22 8832 You had open Chrome browser
+Wed 22 Jul 2020 15:26:42 INFO browser_engine.py 22 8832 You had open Chrome browser
+Wed 22 Jul 2020 15:26:42 INFO browser_engine.py 24 8832 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:26:42 INFO browser_engine.py 24 8832 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:26:45 INFO browser_engine.py 29 8832 Starting Chrome browser.
+Wed 22 Jul 2020 15:26:45 INFO browser_engine.py 29 8832 Starting Chrome browser.
+Wed 22 Jul 2020 15:26:45 INFO browser_engine.py 40 8832 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:26:45 INFO browser_engine.py 40 8832 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:26:46 INFO browser_engine.py 42 8832 Maxmize current window
+Wed 22 Jul 2020 15:26:46 INFO browser_engine.py 42 8832 Maxmize current window
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 122 8832 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.10372281074523926 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 122 8832 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.10372281074523926 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 122 8832 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 12345678, Spend 0.07878780364990234 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 122 8832 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 12345678, Spend 0.07878780364990234 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 156 8832 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984020233154297 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 156 8832 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984020233154297 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 308 8832 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03690361976623535 seconds
+Wed 22 Jul 2020 15:26:46 INFO base_page.py 308 8832 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03690361976623535 seconds
+Wed 22 Jul 2020 15:29:21 INFO browser_engine.py 22 5300 You had open Chrome browser
+Wed 22 Jul 2020 15:29:21 INFO browser_engine.py 22 5300 You had open Chrome browser
+Wed 22 Jul 2020 15:29:21 INFO browser_engine.py 24 5300 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:29:21 INFO browser_engine.py 24 5300 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:29:23 INFO browser_engine.py 29 5300 Starting Chrome browser.
+Wed 22 Jul 2020 15:29:23 INFO browser_engine.py 29 5300 Starting Chrome browser.
+Wed 22 Jul 2020 15:29:24 INFO browser_engine.py 40 5300 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:29:24 INFO browser_engine.py 40 5300 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:29:25 INFO browser_engine.py 42 5300 Maxmize current window
+Wed 22 Jul 2020 15:29:25 INFO browser_engine.py 42 5300 Maxmize current window
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 122 5300 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09972023963928223 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 122 5300 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09972023963928223 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 122 5300 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 12345678, Spend 0.074798583984375 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 122 5300 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 12345678, Spend 0.074798583984375 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 156 5300 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283330917358398 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 156 5300 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283330917358398 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 308 5300 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.035903215408325195 seconds
+Wed 22 Jul 2020 15:29:25 INFO base_page.py 308 5300 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.035903215408325195 seconds
+Wed 22 Jul 2020 15:32:30 INFO browser_engine.py 22 11996 You had open Chrome browser
+Wed 22 Jul 2020 15:32:30 INFO browser_engine.py 22 11996 You had open Chrome browser
+Wed 22 Jul 2020 15:32:30 INFO browser_engine.py 24 11996 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:32:30 INFO browser_engine.py 24 11996 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:32:32 INFO browser_engine.py 29 11996 Starting Chrome browser.
+Wed 22 Jul 2020 15:32:32 INFO browser_engine.py 29 11996 Starting Chrome browser.
+Wed 22 Jul 2020 15:32:32 INFO browser_engine.py 40 11996 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:32:32 INFO browser_engine.py 40 11996 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:32:34 INFO browser_engine.py 42 11996 Maxmize current window
+Wed 22 Jul 2020 15:32:34 INFO browser_engine.py 42 11996 Maxmize current window
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 120 11996 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09873700141906738 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 120 11996 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09873700141906738 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 120 11996 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08778119087219238 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 120 11996 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08778119087219238 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 154 11996 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05983161926269531 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 154 11996 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05983161926269531 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 306 11996 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.036900997161865234 seconds
+Wed 22 Jul 2020 15:32:34 INFO base_page.py 306 11996 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.036900997161865234 seconds
+Wed 22 Jul 2020 15:36:20 INFO browser_engine.py 22 16692 You had open Chrome browser
+Wed 22 Jul 2020 15:36:20 INFO browser_engine.py 22 16692 You had open Chrome browser
+Wed 22 Jul 2020 15:36:20 INFO browser_engine.py 24 16692 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:36:20 INFO browser_engine.py 24 16692 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:36:22 INFO browser_engine.py 29 16692 Starting Chrome browser.
+Wed 22 Jul 2020 15:36:22 INFO browser_engine.py 29 16692 Starting Chrome browser.
+Wed 22 Jul 2020 15:36:22 INFO browser_engine.py 40 16692 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:36:22 INFO browser_engine.py 40 16692 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:36:24 INFO browser_engine.py 42 16692 Maxmize current window
+Wed 22 Jul 2020 15:36:24 INFO browser_engine.py 42 16692 Maxmize current window
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 120 16692 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09375596046447754 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 120 16692 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09375596046447754 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 120 16692 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.09075093269348145 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 120 16692 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.09075093269348145 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 154 16692 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06183624267578125 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 154 16692 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06183624267578125 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 306 16692 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03590226173400879 seconds
+Wed 22 Jul 2020 15:36:24 INFO base_page.py 306 16692 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03590226173400879 seconds
+Wed 22 Jul 2020 15:39:56 INFO browser_engine.py 22 10196 You had open Chrome browser
+Wed 22 Jul 2020 15:39:56 INFO browser_engine.py 22 10196 You had open Chrome browser
+Wed 22 Jul 2020 15:39:56 INFO browser_engine.py 24 10196 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:39:56 INFO browser_engine.py 24 10196 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:39:59 INFO browser_engine.py 29 10196 Starting Chrome browser.
+Wed 22 Jul 2020 15:39:59 INFO browser_engine.py 29 10196 Starting Chrome browser.
+Wed 22 Jul 2020 15:39:59 INFO browser_engine.py 40 10196 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:39:59 INFO browser_engine.py 40 10196 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:40:00 INFO browser_engine.py 42 10196 Maxmize current window
+Wed 22 Jul 2020 15:40:00 INFO browser_engine.py 42 10196 Maxmize current window
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 118 10196 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09275269508361816 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 118 10196 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.09275269508361816 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 118 10196 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08776402473449707 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 118 10196 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08776402473449707 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 152 10196 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06183576583862305 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 152 10196 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06183576583862305 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 304 10196 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04787278175354004 seconds
+Wed 22 Jul 2020 15:40:00 INFO base_page.py 304 10196 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04787278175354004 seconds
+Wed 22 Jul 2020 15:42:28 INFO browser_engine.py 22 12364 You had open Chrome browser
+Wed 22 Jul 2020 15:42:28 INFO browser_engine.py 22 12364 You had open Chrome browser
+Wed 22 Jul 2020 15:42:28 INFO browser_engine.py 24 12364 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:42:28 INFO browser_engine.py 24 12364 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:42:30 INFO browser_engine.py 29 12364 Starting Chrome browser.
+Wed 22 Jul 2020 15:42:30 INFO browser_engine.py 29 12364 Starting Chrome browser.
+Wed 22 Jul 2020 15:42:30 INFO browser_engine.py 40 12364 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:42:30 INFO browser_engine.py 40 12364 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:42:31 INFO browser_engine.py 42 12364 Maxmize current window
+Wed 22 Jul 2020 15:42:31 INFO browser_engine.py 42 12364 Maxmize current window
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 118 12364 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.10372328758239746 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 118 12364 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.10372328758239746 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 118 12364 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08876276016235352 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 118 12364 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08876276016235352 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 152 12364 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06382918357849121 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 152 12364 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06382918357849121 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 304 12364 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.027924299240112305 seconds
+Wed 22 Jul 2020 15:42:32 INFO base_page.py 304 12364 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.027924299240112305 seconds
+Wed 22 Jul 2020 15:42:32 INFO test_saasLogin.py 23 12364 
+Wed 22 Jul 2020 15:43:08 INFO browser_engine.py 22 16380 You had open Chrome browser
+Wed 22 Jul 2020 15:43:08 INFO browser_engine.py 22 16380 You had open Chrome browser
+Wed 22 Jul 2020 15:43:08 INFO browser_engine.py 24 16380 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:43:08 INFO browser_engine.py 24 16380 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:43:10 INFO browser_engine.py 29 16380 Starting Chrome browser.
+Wed 22 Jul 2020 15:43:10 INFO browser_engine.py 29 16380 Starting Chrome browser.
+Wed 22 Jul 2020 15:43:11 INFO browser_engine.py 40 16380 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:43:11 INFO browser_engine.py 40 16380 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:43:12 INFO browser_engine.py 42 16380 Maxmize current window
+Wed 22 Jul 2020 15:43:12 INFO browser_engine.py 42 16380 Maxmize current window
+Wed 22 Jul 2020 15:43:12 INFO base_page.py 118 16380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.08676576614379883 seconds
+Wed 22 Jul 2020 15:43:12 INFO base_page.py 118 16380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: a, Spend 0.08676576614379883 seconds
+Wed 22 Jul 2020 15:43:12 INFO base_page.py 118 16380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08776545524597168 seconds
+Wed 22 Jul 2020 15:43:12 INFO base_page.py 118 16380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08776545524597168 seconds
+Wed 22 Jul 2020 15:43:12 INFO base_page.py 304 16380 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025928735733032227 seconds
+Wed 22 Jul 2020 15:43:12 INFO base_page.py 304 16380 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025928735733032227 seconds
+Wed 22 Jul 2020 15:43:12 INFO test_saasLogin.py 23 16380 
+Wed 22 Jul 2020 15:45:42 INFO browser_engine.py 22 18288 You had open Chrome browser
+Wed 22 Jul 2020 15:45:42 INFO browser_engine.py 22 18288 You had open Chrome browser
+Wed 22 Jul 2020 15:45:42 INFO browser_engine.py 24 18288 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:45:42 INFO browser_engine.py 24 18288 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:45:44 INFO browser_engine.py 29 18288 Starting Chrome browser.
+Wed 22 Jul 2020 15:45:44 INFO browser_engine.py 29 18288 Starting Chrome browser.
+Wed 22 Jul 2020 15:45:45 INFO browser_engine.py 40 18288 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:45:45 INFO browser_engine.py 40 18288 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:45:46 INFO browser_engine.py 42 18288 Maxmize current window
+Wed 22 Jul 2020 15:45:46 INFO browser_engine.py 42 18288 Maxmize current window
+Wed 22 Jul 2020 15:45:46 INFO base_page.py 304 18288 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04687070846557617 seconds
+Wed 22 Jul 2020 15:45:46 INFO base_page.py 304 18288 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04687070846557617 seconds
+Wed 22 Jul 2020 15:45:46 INFO base_page.py 304 18288 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.01994633674621582 seconds
+Wed 22 Jul 2020 15:45:46 INFO base_page.py 304 18288 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.01994633674621582 seconds
+Wed 22 Jul 2020 15:45:46 INFO test_saasLogin.py 24 18288 
+Wed 22 Jul 2020 15:49:13 INFO base_page.py 304 16388 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.03889656066894531 seconds
+Wed 22 Jul 2020 15:49:13 INFO base_page.py 304 16388 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.03889656066894531 seconds
+Wed 22 Jul 2020 15:50:01 INFO base_page.py 304 17032 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.05485272407531738 seconds
+Wed 22 Jul 2020 15:50:01 INFO base_page.py 304 17032 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.05485272407531738 seconds
+Wed 22 Jul 2020 15:52:12 INFO base_page.py 304 4312 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.041887760162353516 seconds
+Wed 22 Jul 2020 15:52:12 INFO base_page.py 304 4312 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.041887760162353516 seconds
+Wed 22 Jul 2020 15:52:12 INFO base_page.py 304 4312 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02094244956970215 seconds
+Wed 22 Jul 2020 15:52:12 INFO base_page.py 304 4312 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02094244956970215 seconds
+Wed 22 Jul 2020 15:52:12 INFO test_saasLogin.py 29 4312 
+Wed 22 Jul 2020 15:53:59 INFO browser_engine.py 22 9828 You had open Chrome browser
+Wed 22 Jul 2020 15:53:59 INFO browser_engine.py 22 9828 You had open Chrome browser
+Wed 22 Jul 2020 15:53:59 INFO browser_engine.py 24 9828 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:53:59 INFO browser_engine.py 24 9828 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:54:01 INFO browser_engine.py 29 9828 Starting Chrome browser.
+Wed 22 Jul 2020 15:54:01 INFO browser_engine.py 29 9828 Starting Chrome browser.
+Wed 22 Jul 2020 15:54:02 INFO browser_engine.py 40 9828 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:54:02 INFO browser_engine.py 40 9828 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:54:03 INFO browser_engine.py 42 9828 Maxmize current window
+Wed 22 Jul 2020 15:54:03 INFO browser_engine.py 42 9828 Maxmize current window
+Wed 22 Jul 2020 15:54:03 INFO base_page.py 304 9828 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04687380790710449 seconds
+Wed 22 Jul 2020 15:54:03 INFO base_page.py 304 9828 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04687380790710449 seconds
+Wed 22 Jul 2020 15:54:03 INFO base_page.py 304 9828 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02094268798828125 seconds
+Wed 22 Jul 2020 15:54:03 INFO base_page.py 304 9828 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02094268798828125 seconds
+Wed 22 Jul 2020 15:54:03 INFO test_saasLogin.py 25 9828 
+Wed 22 Jul 2020 15:58:25 INFO browser_engine.py 22 3376 You had open Chrome browser
+Wed 22 Jul 2020 15:58:25 INFO browser_engine.py 22 3376 You had open Chrome browser
+Wed 22 Jul 2020 15:58:25 INFO browser_engine.py 24 3376 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:58:25 INFO browser_engine.py 24 3376 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 15:58:27 INFO browser_engine.py 29 3376 Starting Chrome browser.
+Wed 22 Jul 2020 15:58:27 INFO browser_engine.py 29 3376 Starting Chrome browser.
+Wed 22 Jul 2020 15:58:27 INFO browser_engine.py 40 3376 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:58:27 INFO browser_engine.py 40 3376 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 15:58:28 INFO browser_engine.py 42 3376 Maxmize current window
+Wed 22 Jul 2020 15:58:28 INFO browser_engine.py 42 3376 Maxmize current window
+Wed 22 Jul 2020 15:58:28 INFO base_page.py 304 3376 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.05285835266113281 seconds
+Wed 22 Jul 2020 15:58:28 INFO base_page.py 304 3376 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.05285835266113281 seconds
+Wed 22 Jul 2020 15:58:28 INFO base_page.py 304 3376 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029920101165771484 seconds
+Wed 22 Jul 2020 15:58:28 INFO base_page.py 304 3376 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029920101165771484 seconds
+Wed 22 Jul 2020 15:58:28 INFO test_saasLogin.py 25 3376 
+Wed 22 Jul 2020 15:58:58 INFO base_page.py 304 1684 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.04089236259460449 seconds
+Wed 22 Jul 2020 15:58:58 INFO base_page.py 304 1684 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.04089236259460449 seconds
+Wed 22 Jul 2020 16:01:24 INFO browser_engine.py 22 7844 You had open Chrome browser
+Wed 22 Jul 2020 16:01:24 INFO browser_engine.py 22 7844 You had open Chrome browser
+Wed 22 Jul 2020 16:01:24 INFO browser_engine.py 24 7844 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:01:24 INFO browser_engine.py 24 7844 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:01:26 INFO browser_engine.py 29 7844 Starting Chrome browser.
+Wed 22 Jul 2020 16:01:26 INFO browser_engine.py 29 7844 Starting Chrome browser.
+Wed 22 Jul 2020 16:01:27 INFO browser_engine.py 40 7844 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:01:27 INFO browser_engine.py 40 7844 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:01:28 INFO browser_engine.py 42 7844 Maxmize current window
+Wed 22 Jul 2020 16:01:28 INFO browser_engine.py 42 7844 Maxmize current window
+Wed 22 Jul 2020 16:01:28 INFO base_page.py 304 7844 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.04787158966064453 seconds
+Wed 22 Jul 2020 16:01:28 INFO base_page.py 304 7844 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[3]/input>, Spend 0.04787158966064453 seconds
+Wed 22 Jul 2020 16:04:08 INFO browser_engine.py 22 8832 You had open Chrome browser
+Wed 22 Jul 2020 16:04:08 INFO browser_engine.py 22 8832 You had open Chrome browser
+Wed 22 Jul 2020 16:04:08 INFO browser_engine.py 24 8832 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:04:08 INFO browser_engine.py 24 8832 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:04:11 INFO browser_engine.py 29 8832 Starting Chrome browser.
+Wed 22 Jul 2020 16:04:11 INFO browser_engine.py 29 8832 Starting Chrome browser.
+Wed 22 Jul 2020 16:04:11 INFO browser_engine.py 40 8832 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:04:11 INFO browser_engine.py 40 8832 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:04:12 INFO browser_engine.py 42 8832 Maxmize current window
+Wed 22 Jul 2020 16:04:12 INFO browser_engine.py 42 8832 Maxmize current window
+Wed 22 Jul 2020 16:04:12 INFO base_page.py 304 8832 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.0468754768371582 seconds
+Wed 22 Jul 2020 16:04:12 INFO base_page.py 304 8832 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.0468754768371582 seconds
+Wed 22 Jul 2020 16:04:41 INFO browser_engine.py 22 4688 You had open Chrome browser
+Wed 22 Jul 2020 16:04:41 INFO browser_engine.py 22 4688 You had open Chrome browser
+Wed 22 Jul 2020 16:04:41 INFO browser_engine.py 24 4688 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:04:41 INFO browser_engine.py 24 4688 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:04:43 INFO browser_engine.py 29 4688 Starting Chrome browser.
+Wed 22 Jul 2020 16:04:43 INFO browser_engine.py 29 4688 Starting Chrome browser.
+Wed 22 Jul 2020 16:04:43 INFO browser_engine.py 40 4688 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:04:43 INFO browser_engine.py 40 4688 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:04:44 INFO browser_engine.py 42 4688 Maxmize current window
+Wed 22 Jul 2020 16:04:44 INFO browser_engine.py 42 4688 Maxmize current window
+Wed 22 Jul 2020 16:04:44 INFO base_page.py 304 4688 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04886794090270996 seconds
+Wed 22 Jul 2020 16:04:44 INFO base_page.py 304 4688 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04886794090270996 seconds
+Wed 22 Jul 2020 16:06:57 INFO browser_engine.py 22 16280 You had open Chrome browser
+Wed 22 Jul 2020 16:06:57 INFO browser_engine.py 22 16280 You had open Chrome browser
+Wed 22 Jul 2020 16:06:57 INFO browser_engine.py 24 16280 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:06:57 INFO browser_engine.py 24 16280 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:06:59 INFO browser_engine.py 29 16280 Starting Chrome browser.
+Wed 22 Jul 2020 16:06:59 INFO browser_engine.py 29 16280 Starting Chrome browser.
+Wed 22 Jul 2020 16:07:00 INFO browser_engine.py 40 16280 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:07:00 INFO browser_engine.py 40 16280 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:07:01 INFO browser_engine.py 42 16280 Maxmize current window
+Wed 22 Jul 2020 16:07:01 INFO browser_engine.py 42 16280 Maxmize current window
+Wed 22 Jul 2020 16:07:01 INFO base_page.py 304 16280 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03889608383178711 seconds
+Wed 22 Jul 2020 16:07:01 INFO base_page.py 304 16280 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03889608383178711 seconds
+Wed 22 Jul 2020 16:07:23 INFO browser_engine.py 22 7596 You had open Chrome browser
+Wed 22 Jul 2020 16:07:23 INFO browser_engine.py 22 7596 You had open Chrome browser
+Wed 22 Jul 2020 16:07:23 INFO browser_engine.py 24 7596 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:07:23 INFO browser_engine.py 24 7596 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:07:25 INFO browser_engine.py 29 7596 Starting Chrome browser.
+Wed 22 Jul 2020 16:07:25 INFO browser_engine.py 29 7596 Starting Chrome browser.
+Wed 22 Jul 2020 16:07:26 INFO browser_engine.py 40 7596 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:07:26 INFO browser_engine.py 40 7596 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:07:27 INFO browser_engine.py 42 7596 Maxmize current window
+Wed 22 Jul 2020 16:07:27 INFO browser_engine.py 42 7596 Maxmize current window
+Wed 22 Jul 2020 16:07:27 INFO base_page.py 304 7596 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03889584541320801 seconds
+Wed 22 Jul 2020 16:07:27 INFO base_page.py 304 7596 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03889584541320801 seconds
+Wed 22 Jul 2020 16:43:03 INFO browser_engine.py 22 8244 You had open Chrome browser
+Wed 22 Jul 2020 16:43:03 INFO browser_engine.py 22 8244 You had open Chrome browser
+Wed 22 Jul 2020 16:43:03 INFO browser_engine.py 24 8244 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:43:03 INFO browser_engine.py 24 8244 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:43:05 INFO browser_engine.py 29 8244 Starting Chrome browser.
+Wed 22 Jul 2020 16:43:05 INFO browser_engine.py 29 8244 Starting Chrome browser.
+Wed 22 Jul 2020 16:43:06 INFO browser_engine.py 40 8244 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:43:06 INFO browser_engine.py 40 8244 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:43:07 INFO browser_engine.py 42 8244 Maxmize current window
+Wed 22 Jul 2020 16:43:07 INFO browser_engine.py 42 8244 Maxmize current window
+Wed 22 Jul 2020 16:43:07 INFO base_page.py 118 8244 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.11469316482543945 seconds
+Wed 22 Jul 2020 16:43:07 INFO base_page.py 118 8244 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.11469316482543945 seconds
+Wed 22 Jul 2020 16:43:07 INFO base_page.py 118 8244 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07081413269042969 seconds
+Wed 22 Jul 2020 16:43:07 INFO base_page.py 118 8244 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07081413269042969 seconds
+Wed 22 Jul 2020 16:43:07 INFO base_page.py 304 8244 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026927471160888672 seconds
+Wed 22 Jul 2020 16:43:07 INFO base_page.py 304 8244 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026927471160888672 seconds
+Wed 22 Jul 2020 16:44:16 INFO browser_engine.py 22 3532 You had open Chrome browser
+Wed 22 Jul 2020 16:44:16 INFO browser_engine.py 22 3532 You had open Chrome browser
+Wed 22 Jul 2020 16:44:16 INFO browser_engine.py 24 3532 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:44:16 INFO browser_engine.py 24 3532 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:44:18 INFO browser_engine.py 29 3532 Starting Chrome browser.
+Wed 22 Jul 2020 16:44:18 INFO browser_engine.py 29 3532 Starting Chrome browser.
+Wed 22 Jul 2020 16:44:19 INFO browser_engine.py 40 3532 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:44:19 INFO browser_engine.py 40 3532 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:44:20 INFO browser_engine.py 42 3532 Maxmize current window
+Wed 22 Jul 2020 16:44:20 INFO browser_engine.py 42 3532 Maxmize current window
+Wed 22 Jul 2020 16:44:20 INFO base_page.py 118 3532 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.11968231201171875 seconds
+Wed 22 Jul 2020 16:44:20 INFO base_page.py 118 3532 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.11968231201171875 seconds
+Wed 22 Jul 2020 16:44:20 INFO base_page.py 118 3532 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07679414749145508 seconds
+Wed 22 Jul 2020 16:44:20 INFO base_page.py 118 3532 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07679414749145508 seconds
+Wed 22 Jul 2020 16:44:20 INFO base_page.py 304 3532 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02991938591003418 seconds
+Wed 22 Jul 2020 16:44:20 INFO base_page.py 304 3532 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02991938591003418 seconds
+Wed 22 Jul 2020 16:49:24 INFO browser_engine.py 22 21276 You had open Chrome browser
+Wed 22 Jul 2020 16:49:24 INFO browser_engine.py 22 21276 You had open Chrome browser
+Wed 22 Jul 2020 16:49:24 INFO browser_engine.py 24 21276 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:49:24 INFO browser_engine.py 24 21276 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:49:27 INFO browser_engine.py 29 21276 Starting Chrome browser.
+Wed 22 Jul 2020 16:49:27 INFO browser_engine.py 29 21276 Starting Chrome browser.
+Wed 22 Jul 2020 16:49:27 INFO browser_engine.py 40 21276 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:49:27 INFO browser_engine.py 40 21276 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:49:28 INFO browser_engine.py 42 21276 Maxmize current window
+Wed 22 Jul 2020 16:49:28 INFO browser_engine.py 42 21276 Maxmize current window
+Wed 22 Jul 2020 16:49:28 INFO base_page.py 118 21276 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.13364243507385254 seconds
+Wed 22 Jul 2020 16:49:28 INFO base_page.py 118 21276 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.13364243507385254 seconds
+Wed 22 Jul 2020 16:49:28 INFO base_page.py 118 21276 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07380270957946777 seconds
+Wed 22 Jul 2020 16:49:28 INFO base_page.py 118 21276 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07380270957946777 seconds
+Wed 22 Jul 2020 16:49:28 INFO base_page.py 304 21276 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03191423416137695 seconds
+Wed 22 Jul 2020 16:49:28 INFO base_page.py 304 21276 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03191423416137695 seconds
+Wed 22 Jul 2020 16:50:41 INFO browser_engine.py 22 792 You had open Chrome browser
+Wed 22 Jul 2020 16:50:41 INFO browser_engine.py 22 792 You had open Chrome browser
+Wed 22 Jul 2020 16:50:41 INFO browser_engine.py 24 792 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:50:41 INFO browser_engine.py 24 792 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:50:43 INFO browser_engine.py 29 792 Starting Chrome browser.
+Wed 22 Jul 2020 16:50:43 INFO browser_engine.py 29 792 Starting Chrome browser.
+Wed 22 Jul 2020 16:50:43 INFO browser_engine.py 40 792 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:50:43 INFO browser_engine.py 40 792 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:50:44 INFO browser_engine.py 42 792 Maxmize current window
+Wed 22 Jul 2020 16:50:44 INFO browser_engine.py 42 792 Maxmize current window
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 118 792 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.1186823844909668 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 118 792 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa, Spend 0.1186823844909668 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 118 792 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07081055641174316 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 118 792 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07081055641174316 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 152 792 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0658254623413086 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 152 792 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0658254623413086 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 304 792 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989291191101074 seconds
+Wed 22 Jul 2020 16:50:45 INFO base_page.py 304 792 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989291191101074 seconds
+Wed 22 Jul 2020 16:51:26 INFO browser_engine.py 22 20696 You had open Chrome browser
+Wed 22 Jul 2020 16:51:26 INFO browser_engine.py 22 20696 You had open Chrome browser
+Wed 22 Jul 2020 16:51:26 INFO browser_engine.py 24 20696 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:51:26 INFO browser_engine.py 24 20696 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:51:29 INFO browser_engine.py 29 20696 Starting Chrome browser.
+Wed 22 Jul 2020 16:51:29 INFO browser_engine.py 29 20696 Starting Chrome browser.
+Wed 22 Jul 2020 16:51:29 INFO browser_engine.py 40 20696 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:51:29 INFO browser_engine.py 40 20696 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:51:30 INFO browser_engine.py 42 20696 Maxmize current window
+Wed 22 Jul 2020 16:51:30 INFO browser_engine.py 42 20696 Maxmize current window
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 118 20696 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12666106224060059 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 118 20696 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12666106224060059 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 118 20696 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.08078479766845703 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 118 20696 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.08078479766845703 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 152 20696 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.059839725494384766 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 152 20696 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.059839725494384766 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 304 20696 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.030916929244995117 seconds
+Wed 22 Jul 2020 16:51:30 INFO base_page.py 304 20696 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.030916929244995117 seconds
+Wed 22 Jul 2020 16:52:56 INFO browser_engine.py 22 4972 You had open Chrome browser
+Wed 22 Jul 2020 16:52:56 INFO browser_engine.py 22 4972 You had open Chrome browser
+Wed 22 Jul 2020 16:52:56 INFO browser_engine.py 24 4972 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:52:56 INFO browser_engine.py 24 4972 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:52:58 INFO browser_engine.py 29 4972 Starting Chrome browser.
+Wed 22 Jul 2020 16:52:58 INFO browser_engine.py 29 4972 Starting Chrome browser.
+Wed 22 Jul 2020 16:52:59 INFO browser_engine.py 40 4972 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:52:59 INFO browser_engine.py 40 4972 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:53:00 INFO browser_engine.py 42 4972 Maxmize current window
+Wed 22 Jul 2020 16:53:00 INFO browser_engine.py 42 4972 Maxmize current window
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 118 4972 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.13065481185913086 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 118 4972 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.13065481185913086 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 118 4972 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.08177971839904785 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 118 4972 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.08177971839904785 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 152 4972 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.058843135833740234 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 152 4972 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.058843135833740234 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 304 4972 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029918670654296875 seconds
+Wed 22 Jul 2020 16:53:00 INFO base_page.py 304 4972 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029918670654296875 seconds
+Wed 22 Jul 2020 16:54:19 INFO browser_engine.py 22 11828 You had open Chrome browser
+Wed 22 Jul 2020 16:54:19 INFO browser_engine.py 22 11828 You had open Chrome browser
+Wed 22 Jul 2020 16:54:19 INFO browser_engine.py 24 11828 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:54:19 INFO browser_engine.py 24 11828 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 16:54:23 INFO browser_engine.py 29 11828 Starting Chrome browser.
+Wed 22 Jul 2020 16:54:23 INFO browser_engine.py 29 11828 Starting Chrome browser.
+Wed 22 Jul 2020 16:54:23 INFO browser_engine.py 40 11828 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:54:23 INFO browser_engine.py 40 11828 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 16:54:24 INFO browser_engine.py 42 11828 Maxmize current window
+Wed 22 Jul 2020 16:54:24 INFO browser_engine.py 42 11828 Maxmize current window
+Wed 22 Jul 2020 16:54:24 INFO base_page.py 118 11828 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12865495681762695 seconds
+Wed 22 Jul 2020 16:54:24 INFO base_page.py 118 11828 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12865495681762695 seconds
+Wed 22 Jul 2020 16:54:24 INFO base_page.py 118 11828 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07777929306030273 seconds
+Wed 22 Jul 2020 16:54:24 INFO base_page.py 118 11828 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07777929306030273 seconds
+Wed 22 Jul 2020 16:54:24 INFO base_page.py 152 11828 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0608367919921875 seconds
+Wed 22 Jul 2020 16:54:24 INFO base_page.py 152 11828 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0608367919921875 seconds
+Wed 22 Jul 2020 17:01:04 INFO browser_engine.py 22 2776 You had open Chrome browser
+Wed 22 Jul 2020 17:01:04 INFO browser_engine.py 22 2776 You had open Chrome browser
+Wed 22 Jul 2020 17:01:04 INFO browser_engine.py 24 2776 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:01:04 INFO browser_engine.py 24 2776 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:01:06 INFO browser_engine.py 29 2776 Starting Chrome browser.
+Wed 22 Jul 2020 17:01:06 INFO browser_engine.py 29 2776 Starting Chrome browser.
+Wed 22 Jul 2020 17:01:07 INFO browser_engine.py 40 2776 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:01:07 INFO browser_engine.py 40 2776 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:01:08 INFO browser_engine.py 42 2776 Maxmize current window
+Wed 22 Jul 2020 17:01:08 INFO browser_engine.py 42 2776 Maxmize current window
+Wed 22 Jul 2020 17:01:08 INFO base_page.py 118 2776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.14561223983764648 seconds
+Wed 22 Jul 2020 17:01:08 INFO base_page.py 118 2776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.14561223983764648 seconds
+Wed 22 Jul 2020 17:01:08 INFO base_page.py 118 2776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.09673905372619629 seconds
+Wed 22 Jul 2020 17:01:08 INFO base_page.py 118 2776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.09673905372619629 seconds
+Wed 22 Jul 2020 17:01:08 INFO base_page.py 152 2776 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.07380270957946777 seconds
+Wed 22 Jul 2020 17:01:08 INFO base_page.py 152 2776 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.07380270957946777 seconds
+Wed 22 Jul 2020 17:01:19 INFO base_page.py 307 2776 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.44950795173645 seconds
+Wed 22 Jul 2020 17:01:19 INFO base_page.py 307 2776 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.44950795173645 seconds
+Wed 22 Jul 2020 17:03:30 INFO browser_engine.py 22 17776 You had open Chrome browser
+Wed 22 Jul 2020 17:03:30 INFO browser_engine.py 22 17776 You had open Chrome browser
+Wed 22 Jul 2020 17:03:30 INFO browser_engine.py 24 17776 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:03:30 INFO browser_engine.py 24 17776 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:03:33 INFO browser_engine.py 29 17776 Starting Chrome browser.
+Wed 22 Jul 2020 17:03:33 INFO browser_engine.py 29 17776 Starting Chrome browser.
+Wed 22 Jul 2020 17:03:33 INFO browser_engine.py 40 17776 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:03:33 INFO browser_engine.py 40 17776 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:03:34 INFO browser_engine.py 42 17776 Maxmize current window
+Wed 22 Jul 2020 17:03:34 INFO browser_engine.py 42 17776 Maxmize current window
+Wed 22 Jul 2020 17:03:34 INFO base_page.py 118 17776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12067675590515137 seconds
+Wed 22 Jul 2020 17:03:34 INFO base_page.py 118 17776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12067675590515137 seconds
+Wed 22 Jul 2020 17:03:34 INFO base_page.py 118 17776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07579803466796875 seconds
+Wed 22 Jul 2020 17:03:34 INFO base_page.py 118 17776 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07579803466796875 seconds
+Wed 22 Jul 2020 17:03:34 INFO base_page.py 152 17776 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.061833858489990234 seconds
+Wed 22 Jul 2020 17:03:34 INFO base_page.py 152 17776 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.061833858489990234 seconds
+Wed 22 Jul 2020 17:03:45 INFO base_page.py 307 17776 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.628045082092285 seconds
+Wed 22 Jul 2020 17:03:45 INFO base_page.py 307 17776 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.628045082092285 seconds
+Wed 22 Jul 2020 17:03:57 INFO browser_engine.py 22 19156 You had open Chrome browser
+Wed 22 Jul 2020 17:03:57 INFO browser_engine.py 22 19156 You had open Chrome browser
+Wed 22 Jul 2020 17:03:57 INFO browser_engine.py 24 19156 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:03:57 INFO browser_engine.py 24 19156 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:04:00 INFO browser_engine.py 29 19156 Starting Chrome browser.
+Wed 22 Jul 2020 17:04:00 INFO browser_engine.py 29 19156 Starting Chrome browser.
+Wed 22 Jul 2020 17:04:00 INFO browser_engine.py 40 19156 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:04:00 INFO browser_engine.py 40 19156 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:04:01 INFO browser_engine.py 42 19156 Maxmize current window
+Wed 22 Jul 2020 17:04:01 INFO browser_engine.py 42 19156 Maxmize current window
+Wed 22 Jul 2020 17:04:01 INFO base_page.py 118 19156 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.13065123558044434 seconds
+Wed 22 Jul 2020 17:04:01 INFO base_page.py 118 19156 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.13065123558044434 seconds
+Wed 22 Jul 2020 17:04:01 INFO base_page.py 118 19156 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.0877678394317627 seconds
+Wed 22 Jul 2020 17:04:01 INFO base_page.py 118 19156 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.0877678394317627 seconds
+Wed 22 Jul 2020 17:04:01 INFO base_page.py 152 19156 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.059838056564331055 seconds
+Wed 22 Jul 2020 17:04:01 INFO base_page.py 152 19156 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.059838056564331055 seconds
+Wed 22 Jul 2020 17:04:09 INFO base_page.py 307 19156 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 7.406223297119141 seconds
+Wed 22 Jul 2020 17:04:09 INFO base_page.py 307 19156 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 7.406223297119141 seconds
+Wed 22 Jul 2020 17:05:22 INFO browser_engine.py 22 21492 You had open Chrome browser
+Wed 22 Jul 2020 17:05:22 INFO browser_engine.py 22 21492 You had open Chrome browser
+Wed 22 Jul 2020 17:05:22 INFO browser_engine.py 24 21492 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:05:22 INFO browser_engine.py 24 21492 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:05:25 INFO browser_engine.py 29 21492 Starting Chrome browser.
+Wed 22 Jul 2020 17:05:25 INFO browser_engine.py 29 21492 Starting Chrome browser.
+Wed 22 Jul 2020 17:05:25 INFO browser_engine.py 40 21492 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:05:25 INFO browser_engine.py 40 21492 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:05:26 INFO browser_engine.py 42 21492 Maxmize current window
+Wed 22 Jul 2020 17:05:26 INFO browser_engine.py 42 21492 Maxmize current window
+Wed 22 Jul 2020 17:05:26 INFO base_page.py 118 21492 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.11469483375549316 seconds
+Wed 22 Jul 2020 17:05:26 INFO base_page.py 118 21492 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.11469483375549316 seconds
+Wed 22 Jul 2020 17:05:26 INFO base_page.py 118 21492 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07678580284118652 seconds
+Wed 22 Jul 2020 17:05:26 INFO base_page.py 118 21492 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07678580284118652 seconds
+Wed 22 Jul 2020 17:05:26 INFO base_page.py 152 21492 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.061833858489990234 seconds
+Wed 22 Jul 2020 17:05:26 INFO base_page.py 152 21492 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.061833858489990234 seconds
+Wed 22 Jul 2020 17:05:35 INFO base_page.py 307 21492 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 8.598340034484863 seconds
+Wed 22 Jul 2020 17:05:35 INFO base_page.py 307 21492 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 8.598340034484863 seconds
+Wed 22 Jul 2020 17:06:48 INFO browser_engine.py 22 16512 You had open Chrome browser
+Wed 22 Jul 2020 17:06:48 INFO browser_engine.py 22 16512 You had open Chrome browser
+Wed 22 Jul 2020 17:06:48 INFO browser_engine.py 24 16512 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:06:48 INFO browser_engine.py 24 16512 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:06:50 INFO browser_engine.py 29 16512 Starting Chrome browser.
+Wed 22 Jul 2020 17:06:50 INFO browser_engine.py 29 16512 Starting Chrome browser.
+Wed 22 Jul 2020 17:06:50 INFO browser_engine.py 40 16512 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:06:50 INFO browser_engine.py 40 16512 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:06:52 INFO browser_engine.py 42 16512 Maxmize current window
+Wed 22 Jul 2020 17:06:52 INFO browser_engine.py 42 16512 Maxmize current window
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 118 16512 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12665653228759766 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 118 16512 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12665653228759766 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 118 16512 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07878875732421875 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 118 16512 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07878875732421875 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 152 16512 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0578460693359375 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 152 16512 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0578460693359375 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 304 16512 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025933027267456055 seconds
+Wed 22 Jul 2020 17:06:52 INFO base_page.py 304 16512 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025933027267456055 seconds
+Wed 22 Jul 2020 17:08:28 INFO browser_engine.py 22 21356 You had open Chrome browser
+Wed 22 Jul 2020 17:08:28 INFO browser_engine.py 22 21356 You had open Chrome browser
+Wed 22 Jul 2020 17:08:28 INFO browser_engine.py 24 21356 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:08:28 INFO browser_engine.py 24 21356 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:08:30 INFO browser_engine.py 29 21356 Starting Chrome browser.
+Wed 22 Jul 2020 17:08:30 INFO browser_engine.py 29 21356 Starting Chrome browser.
+Wed 22 Jul 2020 17:08:31 INFO browser_engine.py 40 21356 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:08:31 INFO browser_engine.py 40 21356 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:08:32 INFO browser_engine.py 42 21356 Maxmize current window
+Wed 22 Jul 2020 17:08:32 INFO browser_engine.py 42 21356 Maxmize current window
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 118 21356 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12666082382202148 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 118 21356 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12666082382202148 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 118 21356 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07878923416137695 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 118 21356 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07878923416137695 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 152 21356 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283187866210938 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 152 21356 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283187866210938 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 304 21356 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03490710258483887 seconds
+Wed 22 Jul 2020 17:08:32 INFO base_page.py 304 21356 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03490710258483887 seconds
+Wed 22 Jul 2020 17:11:46 INFO browser_engine.py 22 4460 You had open Chrome browser
+Wed 22 Jul 2020 17:11:46 INFO browser_engine.py 22 4460 You had open Chrome browser
+Wed 22 Jul 2020 17:11:46 INFO browser_engine.py 24 4460 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:11:46 INFO browser_engine.py 24 4460 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:11:48 INFO browser_engine.py 29 4460 Starting Chrome browser.
+Wed 22 Jul 2020 17:11:48 INFO browser_engine.py 29 4460 Starting Chrome browser.
+Wed 22 Jul 2020 17:11:49 INFO browser_engine.py 40 4460 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:11:49 INFO browser_engine.py 40 4460 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:11:50 INFO browser_engine.py 42 4460 Maxmize current window
+Wed 22 Jul 2020 17:11:50 INFO browser_engine.py 42 4460 Maxmize current window
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 118 4460 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12267279624938965 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 118 4460 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12267279624938965 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 118 4460 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07679510116577148 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 118 4460 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07679510116577148 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 152 4460 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05784153938293457 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 152 4460 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05784153938293457 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 304 4460 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025931119918823242 seconds
+Wed 22 Jul 2020 17:11:50 INFO base_page.py 304 4460 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025931119918823242 seconds
+Wed 22 Jul 2020 17:13:05 INFO browser_engine.py 22 19556 You had open Chrome browser
+Wed 22 Jul 2020 17:13:05 INFO browser_engine.py 22 19556 You had open Chrome browser
+Wed 22 Jul 2020 17:13:05 INFO browser_engine.py 24 19556 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:13:05 INFO browser_engine.py 24 19556 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:13:07 INFO browser_engine.py 29 19556 Starting Chrome browser.
+Wed 22 Jul 2020 17:13:07 INFO browser_engine.py 29 19556 Starting Chrome browser.
+Wed 22 Jul 2020 17:13:07 INFO browser_engine.py 40 19556 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:13:07 INFO browser_engine.py 40 19556 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:13:09 INFO browser_engine.py 42 19556 Maxmize current window
+Wed 22 Jul 2020 17:13:09 INFO browser_engine.py 42 19556 Maxmize current window
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 118 19556 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12965178489685059 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 118 19556 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.12965178489685059 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 118 19556 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07679486274719238 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 118 19556 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07679486274719238 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 152 19556 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05884265899658203 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 152 19556 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05884265899658203 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 304 19556 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026927709579467773 seconds
+Wed 22 Jul 2020 17:13:09 INFO base_page.py 304 19556 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026927709579467773 seconds
+Wed 22 Jul 2020 17:13:09 INFO test20200721.py 45 19556 
+Wed 22 Jul 2020 17:18:31 INFO browser_engine.py 22 14664 You had open Chrome browser
+Wed 22 Jul 2020 17:18:31 INFO browser_engine.py 22 14664 You had open Chrome browser
+Wed 22 Jul 2020 17:18:31 INFO browser_engine.py 24 14664 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:18:31 INFO browser_engine.py 24 14664 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:18:33 INFO browser_engine.py 29 14664 Starting Chrome browser.
+Wed 22 Jul 2020 17:18:33 INFO browser_engine.py 29 14664 Starting Chrome browser.
+Wed 22 Jul 2020 17:18:34 INFO browser_engine.py 40 14664 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:18:34 INFO browser_engine.py 40 14664 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:18:35 INFO browser_engine.py 42 14664 Maxmize current window
+Wed 22 Jul 2020 17:18:35 INFO browser_engine.py 42 14664 Maxmize current window
+Wed 22 Jul 2020 17:18:45 INFO base_page.py 307 14664 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.132526159286499 seconds
+Wed 22 Jul 2020 17:18:45 INFO base_page.py 307 14664 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.132526159286499 seconds
+Wed 22 Jul 2020 17:21:14 INFO base_page.py 307 19728 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.632640361785889 seconds
+Wed 22 Jul 2020 17:21:14 INFO base_page.py 307 19728 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.632640361785889 seconds
+Wed 22 Jul 2020 17:23:22 INFO base_page.py 307 18736 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.175796031951904 seconds
+Wed 22 Jul 2020 17:23:22 INFO base_page.py 307 18736 FAIL Unable to get element text element: <xpath >> /html/body/section/div/ul/li[1]/text()>, Spend 10.175796031951904 seconds
+Wed 22 Jul 2020 17:24:16 INFO base_page.py 304 20660 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[1]>, Spend 0.029920101165771484 seconds
+Wed 22 Jul 2020 17:24:16 INFO base_page.py 304 20660 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[1]>, Spend 0.029920101165771484 seconds
+Wed 22 Jul 2020 17:25:14 INFO base_page.py 304 19800 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029928922653198242 seconds
+Wed 22 Jul 2020 17:25:14 INFO base_page.py 304 19800 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029928922653198242 seconds
+Wed 22 Jul 2020 17:27:39 INFO base_page.py 118 20308 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.09973287582397461 seconds
+Wed 22 Jul 2020 17:27:39 INFO base_page.py 118 20308 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.09973287582397461 seconds
+Wed 22 Jul 2020 17:27:39 INFO base_page.py 118 20308 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123789, Spend 0.0967411994934082 seconds
+Wed 22 Jul 2020 17:27:39 INFO base_page.py 118 20308 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123789, Spend 0.0967411994934082 seconds
+Wed 22 Jul 2020 17:27:40 INFO base_page.py 152 20308 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.6113653182983398 seconds
+Wed 22 Jul 2020 17:27:40 INFO base_page.py 152 20308 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.6113653182983398 seconds
+Wed 22 Jul 2020 17:27:45 INFO base_page.py 304 20308 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029920339584350586 seconds
+Wed 22 Jul 2020 17:27:45 INFO base_page.py 304 20308 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.029920339584350586 seconds
+Wed 22 Jul 2020 17:28:19 INFO browser_engine.py 22 17380 You had open Chrome browser
+Wed 22 Jul 2020 17:28:19 INFO browser_engine.py 22 17380 You had open Chrome browser
+Wed 22 Jul 2020 17:28:19 INFO browser_engine.py 24 17380 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:28:19 INFO browser_engine.py 24 17380 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:28:21 INFO browser_engine.py 29 17380 Starting Chrome browser.
+Wed 22 Jul 2020 17:28:21 INFO browser_engine.py 29 17380 Starting Chrome browser.
+Wed 22 Jul 2020 17:28:21 INFO browser_engine.py 40 17380 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:28:21 INFO browser_engine.py 40 17380 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:28:22 INFO browser_engine.py 42 17380 Maxmize current window
+Wed 22 Jul 2020 17:28:22 INFO browser_engine.py 42 17380 Maxmize current window
+Wed 22 Jul 2020 17:28:22 INFO base_page.py 118 17380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.09973454475402832 seconds
+Wed 22 Jul 2020 17:28:22 INFO base_page.py 118 17380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.09973454475402832 seconds
+Wed 22 Jul 2020 17:28:23 INFO base_page.py 118 17380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123789, Spend 0.08178019523620605 seconds
+Wed 22 Jul 2020 17:28:23 INFO base_page.py 118 17380 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123789, Spend 0.08178019523620605 seconds
+Wed 22 Jul 2020 17:28:23 INFO base_page.py 152 17380 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.07082629203796387 seconds
+Wed 22 Jul 2020 17:28:23 INFO base_page.py 152 17380 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.07082629203796387 seconds
+Wed 22 Jul 2020 17:28:28 INFO base_page.py 304 17380 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02892303466796875 seconds
+Wed 22 Jul 2020 17:28:28 INFO base_page.py 304 17380 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02892303466796875 seconds
+Wed 22 Jul 2020 17:33:59 INFO browser_engine.py 22 15756 You had open Chrome browser
+Wed 22 Jul 2020 17:33:59 INFO browser_engine.py 22 15756 You had open Chrome browser
+Wed 22 Jul 2020 17:33:59 INFO browser_engine.py 24 15756 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:33:59 INFO browser_engine.py 24 15756 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:34:02 INFO browser_engine.py 29 15756 Starting Chrome browser.
+Wed 22 Jul 2020 17:34:02 INFO browser_engine.py 29 15756 Starting Chrome browser.
+Wed 22 Jul 2020 17:34:02 INFO browser_engine.py 40 15756 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:34:02 INFO browser_engine.py 40 15756 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:34:03 INFO browser_engine.py 42 15756 Maxmize current window
+Wed 22 Jul 2020 17:34:03 INFO browser_engine.py 42 15756 Maxmize current window
+Wed 22 Jul 2020 17:34:03 INFO base_page.py 118 15756 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11070394515991211 seconds
+Wed 22 Jul 2020 17:34:03 INFO base_page.py 118 15756 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11070394515991211 seconds
+Wed 22 Jul 2020 17:34:03 INFO base_page.py 118 15756 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123789, Spend 0.07380318641662598 seconds
+Wed 22 Jul 2020 17:34:03 INFO base_page.py 118 15756 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123789, Spend 0.07380318641662598 seconds
+Wed 22 Jul 2020 17:34:08 INFO base_page.py 304 15756 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.028923511505126953 seconds
+Wed 22 Jul 2020 17:34:08 INFO base_page.py 304 15756 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.028923511505126953 seconds
+Wed 22 Jul 2020 17:36:08 INFO browser_engine.py 22 21824 You had open Chrome browser
+Wed 22 Jul 2020 17:36:08 INFO browser_engine.py 22 21824 You had open Chrome browser
+Wed 22 Jul 2020 17:36:08 INFO browser_engine.py 24 21824 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:36:08 INFO browser_engine.py 24 21824 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:36:11 INFO browser_engine.py 29 21824 Starting Chrome browser.
+Wed 22 Jul 2020 17:36:11 INFO browser_engine.py 29 21824 Starting Chrome browser.
+Wed 22 Jul 2020 17:36:11 INFO browser_engine.py 40 21824 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:36:11 INFO browser_engine.py 40 21824 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:36:12 INFO browser_engine.py 42 21824 Maxmize current window
+Wed 22 Jul 2020 17:36:12 INFO browser_engine.py 42 21824 Maxmize current window
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 118 21824 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.13067054748535156 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 118 21824 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: aaaaaaa888, Spend 0.13067054748535156 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 118 21824 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07577729225158691 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 118 21824 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456888, Spend 0.07577729225158691 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 152 21824 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05983853340148926 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 152 21824 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05983853340148926 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 304 21824 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04089069366455078 seconds
+Wed 22 Jul 2020 17:36:12 INFO base_page.py 304 21824 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.04089069366455078 seconds
+Wed 22 Jul 2020 17:36:12 INFO test20200721.py 45 21824 测试通过了！！！！！！
+Wed 22 Jul 2020 17:36:12 INFO test20200721.py 46 21824 用户不存在
+Wed 22 Jul 2020 17:37:38 INFO browser_engine.py 22 1672 You had open Chrome browser
+Wed 22 Jul 2020 17:37:38 INFO browser_engine.py 22 1672 You had open Chrome browser
+Wed 22 Jul 2020 17:37:38 INFO browser_engine.py 24 1672 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:37:38 INFO browser_engine.py 24 1672 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:37:41 INFO browser_engine.py 29 1672 Starting Chrome browser.
+Wed 22 Jul 2020 17:37:41 INFO browser_engine.py 29 1672 Starting Chrome browser.
+Wed 22 Jul 2020 17:37:41 INFO browser_engine.py 40 1672 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:37:41 INFO browser_engine.py 40 1672 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:37:42 INFO browser_engine.py 42 1672 Maxmize current window
+Wed 22 Jul 2020 17:37:42 INFO browser_engine.py 42 1672 Maxmize current window
+Wed 22 Jul 2020 17:37:42 INFO base_page.py 118 1672 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11568903923034668 seconds
+Wed 22 Jul 2020 17:37:42 INFO base_page.py 118 1672 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11568903923034668 seconds
+Wed 22 Jul 2020 17:38:02 INFO browser_engine.py 22 21464 You had open Chrome browser
+Wed 22 Jul 2020 17:38:02 INFO browser_engine.py 22 21464 You had open Chrome browser
+Wed 22 Jul 2020 17:38:02 INFO browser_engine.py 24 21464 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:38:02 INFO browser_engine.py 24 21464 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:38:04 INFO browser_engine.py 29 21464 Starting Chrome browser.
+Wed 22 Jul 2020 17:38:04 INFO browser_engine.py 29 21464 Starting Chrome browser.
+Wed 22 Jul 2020 17:38:05 INFO browser_engine.py 40 21464 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:38:05 INFO browser_engine.py 40 21464 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:38:06 INFO browser_engine.py 42 21464 Maxmize current window
+Wed 22 Jul 2020 17:38:06 INFO browser_engine.py 42 21464 Maxmize current window
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 118 21464 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.10372304916381836 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 118 21464 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.10372304916381836 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 118 21464 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08377504348754883 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 118 21464 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08377504348754883 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 152 21464 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05881953239440918 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 152 21464 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05881953239440918 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 304 21464 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989529609680176 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 304 21464 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989529609680176 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 304 21464 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.030913591384887695 seconds
+Wed 22 Jul 2020 17:38:06 INFO base_page.py 304 21464 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.030913591384887695 seconds
+Wed 22 Jul 2020 17:38:06 INFO test_saasLogin.py 25 21464 您还有1次机会输入正确密码
+Wed 22 Jul 2020 17:38:50 INFO browser_engine.py 22 21040 You had open Chrome browser
+Wed 22 Jul 2020 17:38:50 INFO browser_engine.py 22 21040 You had open Chrome browser
+Wed 22 Jul 2020 17:38:50 INFO browser_engine.py 24 21040 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:38:50 INFO browser_engine.py 24 21040 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:38:52 INFO browser_engine.py 29 21040 Starting Chrome browser.
+Wed 22 Jul 2020 17:38:52 INFO browser_engine.py 29 21040 Starting Chrome browser.
+Wed 22 Jul 2020 17:38:53 INFO browser_engine.py 40 21040 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:38:53 INFO browser_engine.py 40 21040 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:38:54 INFO browser_engine.py 42 21040 Maxmize current window
+Wed 22 Jul 2020 17:38:54 INFO browser_engine.py 42 21040 Maxmize current window
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 118 21040 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.10272693634033203 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 118 21040 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.10272693634033203 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 118 21040 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.09075713157653809 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 118 21040 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.09075713157653809 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 152 21040 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.060836076736450195 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 152 21040 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.060836076736450195 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 304 21040 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989529609680176 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 304 21040 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989529609680176 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 304 21040 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.030925512313842773 seconds
+Wed 22 Jul 2020 17:38:54 INFO base_page.py 304 21040 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.030925512313842773 seconds
+Wed 22 Jul 2020 17:38:54 INFO test_saasLogin.py 25 21040 密码错误3次，请10分钟后再试
+Wed 22 Jul 2020 17:40:44 INFO browser_engine.py 22 18668 You had open Chrome browser
+Wed 22 Jul 2020 17:40:44 INFO browser_engine.py 22 18668 You had open Chrome browser
+Wed 22 Jul 2020 17:40:44 INFO browser_engine.py 24 18668 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:40:44 INFO browser_engine.py 24 18668 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:40:46 INFO browser_engine.py 29 18668 Starting Chrome browser.
+Wed 22 Jul 2020 17:40:46 INFO browser_engine.py 29 18668 Starting Chrome browser.
+Wed 22 Jul 2020 17:40:47 INFO browser_engine.py 40 18668 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:40:47 INFO browser_engine.py 40 18668 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:40:48 INFO browser_engine.py 42 18668 Maxmize current window
+Wed 22 Jul 2020 17:40:48 INFO browser_engine.py 42 18668 Maxmize current window
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 118 18668 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.10172772407531738 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 118 18668 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.10172772407531738 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 118 18668 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08278012275695801 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 118 18668 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 1234567899, Spend 0.08278012275695801 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 152 18668 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0638282299041748 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 152 18668 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0638282299041748 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 304 18668 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026928186416625977 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 304 18668 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026928186416625977 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 304 18668 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.035910606384277344 seconds
+Wed 22 Jul 2020 17:40:48 INFO base_page.py 304 18668 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.035910606384277344 seconds
+Wed 22 Jul 2020 17:40:48 INFO test_saasLogin.py 25 18668 密码错误3次，请10分钟后再试
+Wed 22 Jul 2020 17:50:09 INFO browser_engine.py 22 21876 You had open Chrome browser
+Wed 22 Jul 2020 17:50:09 INFO browser_engine.py 22 21876 You had open Chrome browser
+Wed 22 Jul 2020 17:50:09 INFO browser_engine.py 24 21876 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:50:09 INFO browser_engine.py 24 21876 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:50:11 INFO browser_engine.py 29 21876 Starting Chrome browser.
+Wed 22 Jul 2020 17:50:11 INFO browser_engine.py 29 21876 Starting Chrome browser.
+Wed 22 Jul 2020 17:50:12 INFO browser_engine.py 40 21876 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:50:12 INFO browser_engine.py 40 21876 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:50:13 INFO browser_engine.py 42 21876 Maxmize current window
+Wed 22 Jul 2020 17:50:13 INFO browser_engine.py 42 21876 Maxmize current window
+Wed 22 Jul 2020 17:50:13 INFO browser_engine.py 22 21876 You had open Chrome browser
+Wed 22 Jul 2020 17:50:13 INFO browser_engine.py 22 21876 You had open Chrome browser
+Wed 22 Jul 2020 17:50:13 INFO browser_engine.py 24 21876 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:50:13 INFO browser_engine.py 24 21876 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:50:15 INFO browser_engine.py 29 21876 Starting Chrome browser.
+Wed 22 Jul 2020 17:50:15 INFO browser_engine.py 29 21876 Starting Chrome browser.
+Wed 22 Jul 2020 17:50:15 INFO browser_engine.py 40 21876 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:50:15 INFO browser_engine.py 40 21876 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:50:17 INFO browser_engine.py 42 21876 Maxmize current window
+Wed 22 Jul 2020 17:50:17 INFO browser_engine.py 42 21876 Maxmize current window
+Wed 22 Jul 2020 17:54:10 INFO browser_engine.py 22 7084 You had open Chrome browser
+Wed 22 Jul 2020 17:54:10 INFO browser_engine.py 22 7084 You had open Chrome browser
+Wed 22 Jul 2020 17:54:10 INFO browser_engine.py 24 7084 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:54:10 INFO browser_engine.py 24 7084 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:54:12 INFO browser_engine.py 29 7084 Starting Chrome browser.
+Wed 22 Jul 2020 17:54:12 INFO browser_engine.py 29 7084 Starting Chrome browser.
+Wed 22 Jul 2020 17:54:13 INFO browser_engine.py 40 7084 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:54:13 INFO browser_engine.py 40 7084 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:54:14 INFO browser_engine.py 42 7084 Maxmize current window
+Wed 22 Jul 2020 17:54:14 INFO browser_engine.py 42 7084 Maxmize current window
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11664128303527832 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11664128303527832 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08078384399414062 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08078384399414062 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 152 7084 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05983996391296387 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 152 7084 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05983996391296387 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03291463851928711 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03291463851928711 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03691458702087402 seconds
+Wed 22 Jul 2020 17:54:14 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03691458702087402 seconds
+Wed 22 Jul 2020 17:54:14 INFO test_saasLogin.py 26 7084 您还有2次机会输入正确密码
+Wed 22 Jul 2020 17:54:14 INFO browser_engine.py 22 7084 You had open Chrome browser
+Wed 22 Jul 2020 17:54:14 INFO browser_engine.py 22 7084 You had open Chrome browser
+Wed 22 Jul 2020 17:54:14 INFO browser_engine.py 24 7084 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:54:14 INFO browser_engine.py 24 7084 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 17:54:17 INFO browser_engine.py 29 7084 Starting Chrome browser.
+Wed 22 Jul 2020 17:54:17 INFO browser_engine.py 29 7084 Starting Chrome browser.
+Wed 22 Jul 2020 17:54:17 INFO browser_engine.py 40 7084 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:54:17 INFO browser_engine.py 40 7084 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 17:54:18 INFO browser_engine.py 42 7084 Maxmize current window
+Wed 22 Jul 2020 17:54:18 INFO browser_engine.py 42 7084 Maxmize current window
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12032747268676758 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12032747268676758 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07978582382202148 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 118 7084 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07978582382202148 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 152 7084 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984139442443848 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 152 7084 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984139442443848 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02792501449584961 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02792501449584961 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02792525291442871 seconds
+Wed 22 Jul 2020 17:54:18 INFO base_page.py 304 7084 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02792525291442871 seconds
+Wed 22 Jul 2020 17:54:18 INFO test_saasLogin.py 26 7084 
+Wed 22 Jul 2020 18:02:00 INFO browser_engine.py 22 17260 You had open Chrome browser
+Wed 22 Jul 2020 18:02:00 INFO browser_engine.py 22 17260 You had open Chrome browser
+Wed 22 Jul 2020 18:02:00 INFO browser_engine.py 24 17260 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:02:00 INFO browser_engine.py 24 17260 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:02:02 INFO browser_engine.py 29 17260 Starting Chrome browser.
+Wed 22 Jul 2020 18:02:02 INFO browser_engine.py 29 17260 Starting Chrome browser.
+Wed 22 Jul 2020 18:02:03 INFO browser_engine.py 40 17260 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:02:03 INFO browser_engine.py 40 17260 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:02:04 INFO browser_engine.py 42 17260 Maxmize current window
+Wed 22 Jul 2020 18:02:04 INFO browser_engine.py 42 17260 Maxmize current window
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.12865495681762695 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.12865495681762695 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08578133583068848 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08578133583068848 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 152 17260 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06581401824951172 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 152 17260 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06581401824951172 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.05485248565673828 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.05485248565673828 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03191089630126953 seconds
+Wed 22 Jul 2020 18:02:04 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03191089630126953 seconds
+Wed 22 Jul 2020 18:02:04 INFO test_saasLogin.py 27 17260 您还有1次机会输入正确密码
+Wed 22 Jul 2020 18:02:04 INFO browser_engine.py 22 17260 You had open Chrome browser
+Wed 22 Jul 2020 18:02:04 INFO browser_engine.py 22 17260 You had open Chrome browser
+Wed 22 Jul 2020 18:02:04 INFO browser_engine.py 24 17260 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:02:04 INFO browser_engine.py 24 17260 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:02:07 INFO browser_engine.py 29 17260 Starting Chrome browser.
+Wed 22 Jul 2020 18:02:07 INFO browser_engine.py 29 17260 Starting Chrome browser.
+Wed 22 Jul 2020 18:02:08 INFO browser_engine.py 40 17260 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:02:08 INFO browser_engine.py 40 17260 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:02:09 INFO browser_engine.py 42 17260 Maxmize current window
+Wed 22 Jul 2020 18:02:09 INFO browser_engine.py 42 17260 Maxmize current window
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12466764450073242 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12466764450073242 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08477210998535156 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 118 17260 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08477210998535156 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 152 17260 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.060842037200927734 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 152 17260 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.060842037200927734 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.028917551040649414 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.028917551040649414 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.0468754768371582 seconds
+Wed 22 Jul 2020 18:02:09 INFO base_page.py 304 17260 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.0468754768371582 seconds
+Wed 22 Jul 2020 18:02:09 INFO test_saasLogin.py 27 17260 
+Wed 22 Jul 2020 18:16:25 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:25 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:25 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:25 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:28 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:28 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:28 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:28 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:29 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:29 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:29 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11369609832763672 seconds
+Wed 22 Jul 2020 18:16:29 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11369609832763672 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0718088150024414 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0718088150024414 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 152 22944 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283187866210938 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 152 22944 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283187866210938 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.040891170501708984 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.040891170501708984 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.0388946533203125 seconds
+Wed 22 Jul 2020 18:16:30 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.0388946533203125 seconds
+Wed 22 Jul 2020 18:16:30 INFO test_saasLogin.py 27 22944 您还有2次机会输入正确密码
+Wed 22 Jul 2020 18:16:30 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:30 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:30 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:30 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:32 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:32 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:33 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:33 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:34 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:34 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12566304206848145 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12566304206848145 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07380270957946777 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 118 22944 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07380270957946777 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 152 22944 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.053862571716308594 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 152 22944 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.053862571716308594 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02692103385925293 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02692103385925293 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.01994609832763672 seconds
+Wed 22 Jul 2020 18:16:34 INFO base_page.py 304 22944 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.01994609832763672 seconds
+Wed 22 Jul 2020 18:16:34 INFO test_saasLogin.py 27 22944 
+Wed 22 Jul 2020 18:16:34 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:34 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:34 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:34 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:36 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:36 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:37 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:37 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:38 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:38 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:38 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:38 INFO browser_engine.py 22 22944 You had open Chrome browser
+Wed 22 Jul 2020 18:16:38 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:38 INFO browser_engine.py 24 22944 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:16:40 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:40 INFO browser_engine.py 29 22944 Starting Chrome browser.
+Wed 22 Jul 2020 18:16:41 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:41 INFO browser_engine.py 40 22944 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:16:42 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:16:42 INFO browser_engine.py 42 22944 Maxmize current window
+Wed 22 Jul 2020 18:17:18 INFO browser_engine.py 22 3200 You had open Chrome browser
+Wed 22 Jul 2020 18:17:18 INFO browser_engine.py 22 3200 You had open Chrome browser
+Wed 22 Jul 2020 18:17:18 INFO browser_engine.py 24 3200 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:17:18 INFO browser_engine.py 24 3200 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:17:20 INFO browser_engine.py 29 3200 Starting Chrome browser.
+Wed 22 Jul 2020 18:17:20 INFO browser_engine.py 29 3200 Starting Chrome browser.
+Wed 22 Jul 2020 18:17:20 INFO browser_engine.py 40 3200 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:17:20 INFO browser_engine.py 40 3200 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:17:21 INFO browser_engine.py 42 3200 Maxmize current window
+Wed 22 Jul 2020 18:17:21 INFO browser_engine.py 42 3200 Maxmize current window
+Wed 22 Jul 2020 18:17:21 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11269879341125488 seconds
+Wed 22 Jul 2020 18:17:21 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11269879341125488 seconds
+Wed 22 Jul 2020 18:17:21 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0718085765838623 seconds
+Wed 22 Jul 2020 18:17:21 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0718085765838623 seconds
+Wed 22 Jul 2020 18:17:21 INFO base_page.py 152 3200 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06083822250366211 seconds
+Wed 22 Jul 2020 18:17:21 INFO base_page.py 152 3200 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06083822250366211 seconds
+Wed 22 Jul 2020 18:17:22 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.032912254333496094 seconds
+Wed 22 Jul 2020 18:17:22 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.032912254333496094 seconds
+Wed 22 Jul 2020 18:17:22 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.037896156311035156 seconds
+Wed 22 Jul 2020 18:17:22 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.037896156311035156 seconds
+Wed 22 Jul 2020 18:17:22 INFO test_saasLogin.py 27 3200 您还有1次机会输入正确密码
+Wed 22 Jul 2020 18:17:22 INFO browser_engine.py 22 3200 You had open Chrome browser
+Wed 22 Jul 2020 18:17:22 INFO browser_engine.py 22 3200 You had open Chrome browser
+Wed 22 Jul 2020 18:17:22 INFO browser_engine.py 24 3200 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:17:22 INFO browser_engine.py 24 3200 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:17:24 INFO browser_engine.py 29 3200 Starting Chrome browser.
+Wed 22 Jul 2020 18:17:24 INFO browser_engine.py 29 3200 Starting Chrome browser.
+Wed 22 Jul 2020 18:17:24 INFO browser_engine.py 40 3200 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:17:24 INFO browser_engine.py 40 3200 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:17:25 INFO browser_engine.py 42 3200 Maxmize current window
+Wed 22 Jul 2020 18:17:25 INFO browser_engine.py 42 3200 Maxmize current window
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12765741348266602 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12765741348266602 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0718071460723877 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 118 3200 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0718071460723877 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 152 3200 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.057845115661621094 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 152 3200 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.057845115661621094 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026929616928100586 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.026929616928100586 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.024933576583862305 seconds
+Wed 22 Jul 2020 18:17:26 INFO base_page.py 304 3200 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.024933576583862305 seconds
+Wed 22 Jul 2020 18:17:26 INFO test_saasLogin.py 27 3200 
+Wed 22 Jul 2020 18:17:26 INFO browser_engine.py 22 3200 You had open Chrome browser
+Wed 22 Jul 2020 18:17:26 INFO browser_engine.py 22 3200 You had open Chrome browser
+Wed 22 Jul 2020 18:17:26 INFO browser_engine.py 24 3200 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:17:26 INFO browser_engine.py 24 3200 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:17:28 INFO browser_engine.py 29 3200 Starting Chrome browser.
+Wed 22 Jul 2020 18:17:28 INFO browser_engine.py 29 3200 Starting Chrome browser.
+Wed 22 Jul 2020 18:17:28 INFO browser_engine.py 40 3200 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:17:28 INFO browser_engine.py 40 3200 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:17:30 INFO browser_engine.py 42 3200 Maxmize current window
+Wed 22 Jul 2020 18:17:30 INFO browser_engine.py 42 3200 Maxmize current window
+Wed 22 Jul 2020 18:18:30 INFO browser_engine.py 22 19060 You had open Chrome browser
+Wed 22 Jul 2020 18:18:30 INFO browser_engine.py 22 19060 You had open Chrome browser
+Wed 22 Jul 2020 18:18:30 INFO browser_engine.py 24 19060 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:18:30 INFO browser_engine.py 24 19060 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:18:32 INFO browser_engine.py 29 19060 Starting Chrome browser.
+Wed 22 Jul 2020 18:18:32 INFO browser_engine.py 29 19060 Starting Chrome browser.
+Wed 22 Jul 2020 18:18:33 INFO browser_engine.py 40 19060 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:18:33 INFO browser_engine.py 40 19060 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:18:34 INFO browser_engine.py 42 19060 Maxmize current window
+Wed 22 Jul 2020 18:18:34 INFO browser_engine.py 42 19060 Maxmize current window
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11623787879943848 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.11623787879943848 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0827798843383789 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.0827798843383789 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 152 19060 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.059839487075805664 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 152 19060 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.059839487075805664 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.028922080993652344 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.028922080993652344 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03091716766357422 seconds
+Wed 22 Jul 2020 18:18:34 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03091716766357422 seconds
+Wed 22 Jul 2020 18:18:34 INFO test_saasLogin.py 27 19060 密码错误3次，请10分钟后再试
+Wed 22 Jul 2020 18:18:34 INFO browser_engine.py 22 19060 You had open Chrome browser
+Wed 22 Jul 2020 18:18:34 INFO browser_engine.py 22 19060 You had open Chrome browser
+Wed 22 Jul 2020 18:18:34 INFO browser_engine.py 24 19060 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:18:34 INFO browser_engine.py 24 19060 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:18:37 INFO browser_engine.py 29 19060 Starting Chrome browser.
+Wed 22 Jul 2020 18:18:37 INFO browser_engine.py 29 19060 Starting Chrome browser.
+Wed 22 Jul 2020 18:18:37 INFO browser_engine.py 40 19060 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:18:37 INFO browser_engine.py 40 19060 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:18:38 INFO browser_engine.py 42 19060 Maxmize current window
+Wed 22 Jul 2020 18:18:38 INFO browser_engine.py 42 19060 Maxmize current window
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.11768436431884766 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.11768436431884766 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.06881546974182129 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 118 19060 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.06881546974182129 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 152 19060 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06083822250366211 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 152 19060 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06083822250366211 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03291034698486328 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03291034698486328 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025935888290405273 seconds
+Wed 22 Jul 2020 18:18:38 INFO base_page.py 304 19060 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.025935888290405273 seconds
+Wed 22 Jul 2020 18:18:38 INFO test_saasLogin.py 27 19060 
+Wed 22 Jul 2020 18:18:39 INFO browser_engine.py 22 19060 You had open Chrome browser
+Wed 22 Jul 2020 18:18:39 INFO browser_engine.py 22 19060 You had open Chrome browser
+Wed 22 Jul 2020 18:18:39 INFO browser_engine.py 24 19060 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:18:39 INFO browser_engine.py 24 19060 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:18:41 INFO browser_engine.py 29 19060 Starting Chrome browser.
+Wed 22 Jul 2020 18:18:41 INFO browser_engine.py 29 19060 Starting Chrome browser.
+Wed 22 Jul 2020 18:18:41 INFO browser_engine.py 40 19060 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:18:41 INFO browser_engine.py 40 19060 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:18:42 INFO browser_engine.py 42 19060 Maxmize current window
+Wed 22 Jul 2020 18:18:42 INFO browser_engine.py 42 19060 Maxmize current window
+Wed 22 Jul 2020 18:19:42 INFO browser_engine.py 22 20784 You had open Chrome browser
+Wed 22 Jul 2020 18:19:42 INFO browser_engine.py 22 20784 You had open Chrome browser
+Wed 22 Jul 2020 18:19:42 INFO browser_engine.py 24 20784 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:19:42 INFO browser_engine.py 24 20784 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:19:45 INFO browser_engine.py 29 20784 Starting Chrome browser.
+Wed 22 Jul 2020 18:19:45 INFO browser_engine.py 29 20784 Starting Chrome browser.
+Wed 22 Jul 2020 18:19:45 INFO browser_engine.py 40 20784 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:19:45 INFO browser_engine.py 40 20784 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:19:46 INFO browser_engine.py 42 20784 Maxmize current window
+Wed 22 Jul 2020 18:19:46 INFO browser_engine.py 42 20784 Maxmize current window
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.12067747116088867 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.12067747116088867 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.06982636451721191 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.06982636451721191 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 152 20784 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283283233642578 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 152 20784 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06283283233642578 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03490591049194336 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03490591049194336 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03490614891052246 seconds
+Wed 22 Jul 2020 18:19:46 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03490614891052246 seconds
+Wed 22 Jul 2020 18:19:46 INFO test_saasLogin.py 27 20784 密码错误3次，请10分钟后再试
+Wed 22 Jul 2020 18:19:46 INFO browser_engine.py 22 20784 You had open Chrome browser
+Wed 22 Jul 2020 18:19:46 INFO browser_engine.py 22 20784 You had open Chrome browser
+Wed 22 Jul 2020 18:19:46 INFO browser_engine.py 24 20784 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:19:46 INFO browser_engine.py 24 20784 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:19:49 INFO browser_engine.py 29 20784 Starting Chrome browser.
+Wed 22 Jul 2020 18:19:49 INFO browser_engine.py 29 20784 Starting Chrome browser.
+Wed 22 Jul 2020 18:19:49 INFO browser_engine.py 40 20784 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:19:49 INFO browser_engine.py 40 20784 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:19:50 INFO browser_engine.py 42 20784 Maxmize current window
+Wed 22 Jul 2020 18:19:50 INFO browser_engine.py 42 20784 Maxmize current window
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12266945838928223 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.12266945838928223 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07480096817016602 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07480096817016602 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 152 20784 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0608370304107666 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 152 20784 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.0608370304107666 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989410400390625 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03989410400390625 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02393364906311035 seconds
+Wed 22 Jul 2020 18:19:51 INFO base_page.py 304 20784 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02393364906311035 seconds
+Wed 22 Jul 2020 18:19:51 INFO test_saasLogin.py 27 20784 
+Wed 22 Jul 2020 18:19:51 INFO browser_engine.py 22 20784 You had open Chrome browser
+Wed 22 Jul 2020 18:19:51 INFO browser_engine.py 22 20784 You had open Chrome browser
+Wed 22 Jul 2020 18:19:51 INFO browser_engine.py 24 20784 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:19:51 INFO browser_engine.py 24 20784 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:19:53 INFO browser_engine.py 29 20784 Starting Chrome browser.
+Wed 22 Jul 2020 18:19:53 INFO browser_engine.py 29 20784 Starting Chrome browser.
+Wed 22 Jul 2020 18:19:54 INFO browser_engine.py 40 20784 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:19:54 INFO browser_engine.py 40 20784 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:19:55 INFO browser_engine.py 42 20784 Maxmize current window
+Wed 22 Jul 2020 18:19:55 INFO browser_engine.py 42 20784 Maxmize current window
+Wed 22 Jul 2020 18:19:55 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.11369776725769043 seconds
+Wed 22 Jul 2020 18:19:55 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.11369776725769043 seconds
+Wed 22 Jul 2020 18:19:55 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.06781935691833496 seconds
+Wed 22 Jul 2020 18:19:55 INFO base_page.py 118 20784 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.06781935691833496 seconds
+Wed 22 Jul 2020 18:19:55 INFO base_page.py 152 20784 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.060837745666503906 seconds
+Wed 22 Jul 2020 18:19:55 INFO base_page.py 152 20784 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.060837745666503906 seconds
+Wed 22 Jul 2020 18:19:59 INFO base_page.py 330 20784 SUCCESS Get current window url, Spend 0.8826284408569336 seconds
+Wed 22 Jul 2020 18:19:59 INFO base_page.py 330 20784 SUCCESS Get current window url, Spend 0.8826284408569336 seconds
+Wed 22 Jul 2020 18:19:59 INFO base_page.py 154 20784 FAIL Unable to click element: <xpath >> /html/body/nav/div[1]/div/div/div[2]/ul[3]/li[4]/ul/li[2]/a>, Spend 0.03290510177612305 seconds
+Wed 22 Jul 2020 18:19:59 INFO base_page.py 154 20784 FAIL Unable to click element: <xpath >> /html/body/nav/div[1]/div/div/div[2]/ul[3]/li[4]/ul/li[2]/a>, Spend 0.03290510177612305 seconds
+Wed 22 Jul 2020 18:24:56 INFO browser_engine.py 22 22540 You had open Chrome browser
+Wed 22 Jul 2020 18:24:56 INFO browser_engine.py 22 22540 You had open Chrome browser
+Wed 22 Jul 2020 18:24:56 INFO browser_engine.py 24 22540 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:24:56 INFO browser_engine.py 24 22540 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:24:58 INFO browser_engine.py 29 22540 Starting Chrome browser.
+Wed 22 Jul 2020 18:24:58 INFO browser_engine.py 29 22540 Starting Chrome browser.
+Wed 22 Jul 2020 18:24:59 INFO browser_engine.py 40 22540 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:24:59 INFO browser_engine.py 40 22540 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:25:00 INFO browser_engine.py 42 22540 Maxmize current window
+Wed 22 Jul 2020 18:25:00 INFO browser_engine.py 42 22540 Maxmize current window
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.12565898895263672 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: abc, Spend 0.12565898895263672 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08178353309631348 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08178353309631348 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984091758728027 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984091758728027 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03690028190612793 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.03690028190612793 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02892327308654785 seconds
+Wed 22 Jul 2020 18:25:00 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.02892327308654785 seconds
+Wed 22 Jul 2020 18:25:00 INFO test_saasLogin.py 27 22540 密码错误3次，请10分钟后再试
+Wed 22 Jul 2020 18:25:00 INFO browser_engine.py 22 22540 You had open Chrome browser
+Wed 22 Jul 2020 18:25:00 INFO browser_engine.py 22 22540 You had open Chrome browser
+Wed 22 Jul 2020 18:25:00 INFO browser_engine.py 24 22540 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:25:00 INFO browser_engine.py 24 22540 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:25:03 INFO browser_engine.py 29 22540 Starting Chrome browser.
+Wed 22 Jul 2020 18:25:03 INFO browser_engine.py 29 22540 Starting Chrome browser.
+Wed 22 Jul 2020 18:25:03 INFO browser_engine.py 40 22540 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:25:03 INFO browser_engine.py 40 22540 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:25:04 INFO browser_engine.py 42 22540 Maxmize current window
+Wed 22 Jul 2020 18:25:04 INFO browser_engine.py 42 22540 Maxmize current window
+Wed 22 Jul 2020 18:25:04 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.14760518074035645 seconds
+Wed 22 Jul 2020 18:25:04 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.14760518074035645 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08477282524108887 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.08477282524108887 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06781911849975586 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.06781911849975586 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.038896799087524414 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.038896799087524414 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.027926206588745117 seconds
+Wed 22 Jul 2020 18:25:05 INFO base_page.py 304 22540 SUCCESS Get element text element: <xpath >> /html/body/section/div/ul/li[5]/span>, Spend 0.027926206588745117 seconds
+Wed 22 Jul 2020 18:25:05 INFO test_saasLogin.py 27 22540 
+Wed 22 Jul 2020 18:25:05 INFO browser_engine.py 22 22540 You had open Chrome browser
+Wed 22 Jul 2020 18:25:05 INFO browser_engine.py 22 22540 You had open Chrome browser
+Wed 22 Jul 2020 18:25:05 INFO browser_engine.py 24 22540 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:25:05 INFO browser_engine.py 24 22540 You will open the URL https://saas82.ukelink.net/ !!
+Wed 22 Jul 2020 18:25:08 INFO browser_engine.py 29 22540 Starting Chrome browser.
+Wed 22 Jul 2020 18:25:08 INFO browser_engine.py 29 22540 Starting Chrome browser.
+Wed 22 Jul 2020 18:25:08 INFO browser_engine.py 40 22540 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:25:08 INFO browser_engine.py 40 22540 Open URL: https://saas82.ukelink.net/
+Wed 22 Jul 2020 18:25:09 INFO browser_engine.py 42 22540 Maxmize current window
+Wed 22 Jul 2020 18:25:09 INFO browser_engine.py 42 22540 Maxmize current window
+Wed 22 Jul 2020 18:25:09 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.14261937141418457 seconds
+Wed 22 Jul 2020 18:25:09 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[3]/input> content: AT, Spend 0.14261937141418457 seconds
+Wed 22 Jul 2020 18:25:09 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07779407501220703 seconds
+Wed 22 Jul 2020 18:25:09 INFO base_page.py 118 22540 SUCCESS Typed element: <xpath >> /html/body/section/div/ul/li[4]/input> content: 123456, Spend 0.07779407501220703 seconds
+Wed 22 Jul 2020 18:25:10 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984044075012207 seconds
+Wed 22 Jul 2020 18:25:10 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/section/div/ul/li[6]/input>, Spend 0.05984044075012207 seconds
+Wed 22 Jul 2020 18:25:13 INFO base_page.py 330 22540 SUCCESS Get current window url, Spend 0.1874992847442627 seconds
+Wed 22 Jul 2020 18:25:13 INFO base_page.py 330 22540 SUCCESS Get current window url, Spend 0.1874992847442627 seconds
+Wed 22 Jul 2020 18:25:13 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/nav/div[1]/div/div/div[2]/ul[3]/li[4]/a>, Spend 0.06782054901123047 seconds
+Wed 22 Jul 2020 18:25:13 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/nav/div[1]/div/div/div[2]/ul[3]/li[4]/a>, Spend 0.06782054901123047 seconds
+Wed 22 Jul 2020 18:25:13 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/nav/div[1]/div/div/div[2]/ul[3]/li[4]/ul/li[2]/a>, Spend 0.08676695823669434 seconds
+Wed 22 Jul 2020 18:25:13 INFO base_page.py 152 22540 SUCCESS Clicked element: <xpath >> /html/body/nav/div[1]/div/div/div[2]/ul[3]/li[4]/ul/li[2]/a>, Spend 0.08676695823669434 seconds
